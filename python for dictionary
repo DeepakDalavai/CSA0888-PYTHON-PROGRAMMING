@@ -1,0 +1,2 @@
+person={"name":"Deepak","age":20,"gender":"male","city":"chennai"}
+print(person)
